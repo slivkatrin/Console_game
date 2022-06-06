@@ -1,0 +1,6 @@
+/Users/ekaterinaslivinskaa/Projects/GameProject/GameProject/bin/Debug/GameProject.exe
+/Users/ekaterinaslivinskaa/Projects/GameProject/GameProject/bin/Debug/GameProject.pdb
+/Users/ekaterinaslivinskaa/Projects/GameProject/GameProject/obj/Debug/GameProject.csprojAssemblyReference.cache
+/Users/ekaterinaslivinskaa/Projects/GameProject/GameProject/obj/Debug/GameProject.csproj.CoreCompileInputs.cache
+/Users/ekaterinaslivinskaa/Projects/GameProject/GameProject/obj/Debug/GameProject.exe
+/Users/ekaterinaslivinskaa/Projects/GameProject/GameProject/obj/Debug/GameProject.pdb
